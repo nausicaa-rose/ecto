@@ -36,10 +36,12 @@ $ ecto Make my words spooky!
 ```
 
 Which produces
+```
 
-> 👻 !         o         s         w                   M
->      y    o    p         d    o         m    e    a
->        k         s         r         y         k
+👻 !         o         s         w                   M
+     y    o    p         d    o         m    e    a
+       k         s         r         y         k
+```
 
 That's it! That's all it does.
 
